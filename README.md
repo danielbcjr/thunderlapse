@@ -1,5 +1,5 @@
 # thunderlapse
-## Time Lapse script to GoPro users
+## Time Lapse script to GoPro Linux users
 
 **Hi guys, I did this project to help people who has Linux system to make Time Lapse videos from a lot of images. I started cos was difficult and laborious to find some thing in internet that really works good.**
 

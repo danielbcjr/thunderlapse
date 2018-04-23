@@ -1,4 +1,6 @@
 #!/bin/bash
+#https://github.com/danielbcjr/thunderlapse
+
 clear
   echo "########################################################################"
   echo "################            ThunderLapse   V1.0       ##################"

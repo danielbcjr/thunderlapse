@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#https://github.com/danielbcjr/thunderlapse
 #Are the packages installed?
 clear
 echo "########################################################################"

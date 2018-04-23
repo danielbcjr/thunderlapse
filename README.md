@@ -1,18 +1,22 @@
 # thunderlapse
-## Time Lapse script to GoPro Linux users
+## Time Lapse script to GoPro Linux users 
 
-**Hi guys, I did this project to help people who has Linux system to make Time Lapse videos from a lot of images. I started cos was difficult and laborious to find some thing in internet that really works good.**
+### Script to automatically do videos from a lot of time lapse images. :bowtie:
 
-I really apreciate people who can colaborate and help to impruve the project.
+**Hi guys, I did this project to help people who has Linux systems to make Time Lapse videos :movie_camera: from a lot of images. I started cos it was difficult and laborious to find some thing in internet that really works good.**
+
+I really apreciate people who can colaborate and help to impruve the project. :grin:
 
 ###### All you need here are this packages to be installed in Ubuntu:
 > - ffmpeg
 > - x264
 > - libx264-dev
 
-But dont worry, install script will do all for you =D
+But dont worry, install script will do all for you :heart_eyes:
 
-###### In Ubuntu and Debian you can use as root user:
+## Install :orange_book:
+
+###### In Ubuntu and Debian you can use this line as root user in terminal shell:
 `bash <(curl -s https://raw.githubusercontent.com/danielbcjr/thunderlapse/master/Instalation/install_ubuntu.sh)`
 
 or...

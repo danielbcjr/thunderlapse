@@ -68,10 +68,19 @@ fi
   echo "########################################################################"
       
 #Gitclone script
+  echo "########################################################################"
+  echo "################       Cloning ThunderLapse Repo.     ##################"
+  echo "################ PLEASE, REPORT ERRORS AND BUGS HERE: ##################"
+  echo "################        http://goo.gl/2ydZa1          ##################"
+  echo "########################################################################"
+
 git clone https://github.com/danielbcjr/thunderlapse.git
 cd thunderlapse/Script
 mv thunderlapse.sh /usr/bin/thunderlapse
 chmod +x /usr/bin/thunderlapse
+cd ..
+cd ..
+rm -rf thunderlapse/
 
 
 

@@ -65,7 +65,7 @@ Finally, the name of the video, just the name, without extention:
 #### In the end of compilation, you will be see information about your video:
 `Video stream: 6296.988 kbit/s  (787123 B/s)  size: 12712044 bytes  16.150 secs  324 frames`
 
-`Path: /home/thunderstruckz/Imagens/1_night_lapse`
+`Path: /home/user/Imagens/1_night_lapse`
 `Scale: 1920:1080`
 `FPS: 20`
 `Number of images: 323`

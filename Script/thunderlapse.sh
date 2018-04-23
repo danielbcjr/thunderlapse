@@ -61,7 +61,7 @@ clear
 CD ${PA}
 ls -1v | grep JPG > .files.txt
 
-mencoder -nosound -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=21600000 -o ${NAME}.avi -mf type=jpeg:fps=${FPS} mf://@.files.txt -vf scale=${SCALE}
+mencoder -nosound -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=21600000 -o ${PA}/${NAME}.avi -mf type=jpeg:fps=${FPS} mf://@.files.txt -vf scale=${SCALE}
 
 NUMBER=$(cat .files.txt| wc -l)
 echo ""

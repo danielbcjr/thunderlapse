@@ -1,9 +1,9 @@
-# ThunderLapse
+# ThunderLapse :movie_camera:
 ## Time Lapse script to GoPro Linux users 
 
 ### Script to automatically do videos from a lot of time lapse images. :bowtie:
 
-**Hi guys, I did this project to help people who has Linux systems to make Time Lapse videos :movie_camera: from a lot of images. I started cos it was difficult and laborious to find some thing in internet that really works good.**
+**Hi guys, I did this project to help people who has Linux systems to make Time Lapse videos :movie_camera: from a lot of images. I started it cos it was difficult and laborious to find some thing in internet that really works good.**
 
 I really apreciate people who can colaborate and help to impruve the project. :grin:
 

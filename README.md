@@ -7,6 +7,8 @@
 
 I really apreciate people who can colaborate and help to impruve the project. :grin:
 
+**################ PLEASE, REPORT ERRORS AND BUGS [HERE](http://goo.gl/2ydZa1): ##################**
+
 ###### All you need here are this packages to be installed in Ubuntu:
 > - ffmpeg
 > - x264
@@ -14,7 +16,7 @@ I really apreciate people who can colaborate and help to impruve the project. :g
 
 But dont worry, install script will do all for you :heart_eyes:
 /play ohyeah
-## Install :orange_book:
+## Installtion :orange_book:
 
 ###### In Ubuntu and Debian you can use this line as root user in terminal shell:
 `bash <(curl -s https://raw.githubusercontent.com/danielbcjr/thunderlapse/master/Instalation/install_ubuntu.sh)`

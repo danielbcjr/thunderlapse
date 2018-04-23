@@ -13,7 +13,7 @@ I really apreciate people who can colaborate and help to impruve the project. :g
 > - libx264-dev
 
 But dont worry, install script will do all for you :heart_eyes:
-
+/play ohyeah
 ## Install :orange_book:
 
 ###### In Ubuntu and Debian you can use this line as root user in terminal shell:

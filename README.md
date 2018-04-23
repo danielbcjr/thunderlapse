@@ -1,4 +1,4 @@
-# thunderlapse
+# ThunderLapse
 ## Time Lapse script to GoPro Linux users 
 
 ### Script to automatically do videos from a lot of time lapse images. :bowtie:

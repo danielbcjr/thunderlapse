@@ -36,3 +36,42 @@ or...
 
 *In RedHat I'll test and put here the name of packages (maybe are the same) soon or if you already installed in RedHat ou CentOS, please, be part of thi project ans share with us =D*
 
+
+## How to use?
+In your system terminal, with your system user, type:
+`thunderlapse`
+
+The script will ask for images path, the folder where are all your JPGs images:
+>Please give the path of photos folder (all JPGs images there will be added to the video:
+`/home/user/Imagens/1_night_lapse`
+
+After that, you waill inform the scale of the video:
+>Choose Scale option:
+>1 - 4k (3840:2160):
+>2 - 1920:1080 :
+>3 - 720:405 :
+>4 - 480:360 :
+>5 - Custom Scale:
+`1`
+
+Now Frames per second:
+>FPS:
+`20`
+
+Finally, the name of the video, just the name, without extention:
+>Video name:
+`starts`
+
+#### In the end of compilation, you will be see information about your video:
+`Video stream: 6296.988 kbit/s  (787123 B/s)  size: 12712044 bytes  16.150 secs  324 frames`
+
+`Path: /home/thunderstruckz/Imagens/1_night_lapse`
+`Scale: 1920:1080`
+`FPS: 20`
+`Number of images: 323`
+`Video name: starts.avi`
+>File info:
+`-rw-rw-r-- 1 user user 13M abr 22 22:51 /home/user/Imagens/1_night_lapse/starts.avi`
+
+
+

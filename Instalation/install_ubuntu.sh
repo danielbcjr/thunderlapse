@@ -82,6 +82,14 @@ cd ..
 cd ..
 rm -rf thunderlapse/
 
+clear
 
+ echo "########################################################################"
+ echo "################      ThunderLapse Installed =D       ##################"
+ echo "################      Now you can use the command     ##################"
+ echo "################      'thunderlapse' in your system   ##################"
+ echo "################ PLEASE, REPORT ERRORS AND BUGS HERE: ##################"
+ echo "################        http://goo.gl/2ydZa1          ##################"
+ echo "########################################################################"
 
 

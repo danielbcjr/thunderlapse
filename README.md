@@ -25,11 +25,11 @@ But dont worry, install script will do all for you :heart_eyes:
 ## Installation :orange_book:
 
 ###### In Ubuntu and Debian you can use this line as root user in terminal shell:
-`bash <(curl -s https://raw.githubusercontent.com/danielbcjr/thunderlapse/master/Instalation/install_ubuntu.sh)`
+`bash <(curl -s https://raw.githubusercontent.com/danielbcjr/thunderlapse/master/Installation/install_ubuntu.sh)`
 
 or...
 
-> Download this [file](https://raw.githubusercontent.com/danielbcjr/thunderlapse/master/Instalation/install_ubuntu.sh) and execute it in your machine as root:
+> Download this [file](https://raw.githubusercontent.com/danielbcjr/thunderlapse/master/Installation/install_ubuntu.sh) and execute it in your machine as root:
 `bash install_ubuntu.sh`
 
 

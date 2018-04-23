@@ -22,18 +22,23 @@ echo "Choose Scale option:"
     echo "Custom Resolution:"
     read CUS
     SCALE=${CUS}
+  fi
 
   if [[ ${RESO} == 2 ]];then
     SCALE="3840:2160"
+  fi
 
   if [[ ${RESO} == 1 ]];then
     SCALE="1920:1080"
+  fi
 
   if [[ ${RESO} == 3 ]];then
      SCALE="720:405"
+  fi
 
   if [[ ${RESO} == 4 ]];then
      SCALE="640:360"
+  fi
 
 echo ""
 echo "FPS:"

@@ -6,7 +6,7 @@
 
 **Hi guys, I did this project to help people who has Linux systems to make Time Lapse videos :movie_camera: from a lot of images. I started it cos it was difficult and laborious to find some thing in internet that really works good.**
 
-I used here, cos I saw [here](https://superuser.com/questions/249101/how-can-i-combine-30-000-images-into-a-timelapse-movie):
+I used this, cos I saw [here](https://superuser.com/questions/249101/how-can-i-combine-30-000-images-into-a-timelapse-movie):
 > -nosound -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=21600000 
 
 I really apreciate people who can colaborate and help to impruve the project. :grin:
@@ -22,7 +22,7 @@ I really apreciate people who can colaborate and help to impruve the project. :g
 But dont worry, install script will do all for you :heart_eyes:
 
 
-## Installtion :orange_book:
+## Installation :orange_book:
 
 ###### In Ubuntu and Debian you can use this line as root user in terminal shell:
 `bash <(curl -s https://raw.githubusercontent.com/danielbcjr/thunderlapse/master/Instalation/install_ubuntu.sh)`
